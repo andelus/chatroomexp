@@ -1,0 +1,16 @@
+body {
+    padding: 5px;
+}
+
+.message-board {
+    background: #ededed;
+    height: 400px;
+    overflow: auto;
+}
+
+.room-list {
+    background: #969696;
+    min-height: 400px;
+    height: 100%;
+    overflow: hidden;
+}
